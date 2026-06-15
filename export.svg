@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 175 500 155">
+  <g transform="matrix(2.081285, 0, 0, 2.081285, -97.313492, -220.095947)" style="">
+    <path class="st0" d="M 250.779 194.9 C 251.013 195.213 251.013 194.783 250.779 194.9 C 287.561 195.213 285.607 227.5 282.792 236.178 C 278.922 247.005 268.72 256.973 248.238 256.856 L 82.698 256.856 C 65.538 256.387 53.734 246.849 51.036 235.826 C 46.619 223.474 51.232 196.112 81.252 194.9 L 91.884 194.9 L 250.779 194.9 Z" style="fill: rgb(0, 166, 81); stroke-width: 1px;"/>
+    <text style="fill: rgb(255, 255, 255); font-family: &quot;Arial&quot;, sans-serif; font-size: 32px; font-style: italic; font-weight: 700; letter-spacing: -2.8px; text-anchor: middle; text-transform: uppercase; word-spacing: 4px; white-space: pre;" x="165.26" y="237.052">EXPORT PLATE</text>
+    <rect x="178.182" y="258.847" width="8.877" height="2.762" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); transform-origin: 182.622px 260.222px 0px;" transform="matrix(0.999986, 0.00531, -0.203635, 0.998933, 3.804264, -33.83019)"/>
+  </g>
+</svg>
